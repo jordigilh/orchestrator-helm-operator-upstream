@@ -12,5 +12,5 @@ operator-sdk init --plugins helm --kind Orchestrator --group parodos.dev --versi
 To test the operator locally:
 ```
 make install run
-oc apply -f  config/samples/parodos.dev_v1alpha1_orchestrator.yaml
+oc apply -f config/samples/parodos.dev_v1alpha1_orchestrator.yaml
 ```
