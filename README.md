@@ -1,6 +1,6 @@
-#orchestrator-helm-operator
+# orchestrator-helm-operator
 
-This project was created to evalute the option of delivering the orchestrator deployment as a helm-based operator.
+This project was created to evaluate the option of delivering the orchestrator deployment as a helm-based operator.
 The repository was created by:
 
 ```
